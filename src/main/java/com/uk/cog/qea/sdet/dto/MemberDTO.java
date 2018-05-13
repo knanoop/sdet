@@ -21,7 +21,7 @@ public class MemberDTO {
 	private Date createdDate;
 	private Date modifiedDate;
 	
-	MemberDTO(){
+	public MemberDTO(){
 		
 	}
 	
