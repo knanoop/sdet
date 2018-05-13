@@ -50,7 +50,7 @@ public class MemberEntity {
     @LastModifiedDate
 	private Date lastModifiedDate;
 	
-    MemberEntity(){
+    public MemberEntity(){
     	
     }
     
