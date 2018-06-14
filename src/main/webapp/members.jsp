@@ -106,7 +106,7 @@ tr:nth-child(even){background-color: #f2f2f2}
 
   </div>
   <div class="main">
-    <h2>User Area</h2>
+    <h2>User Areas</h2>
     <c:if test="${message}">
     	<div class="alert success">
   <span class="closebtn">&times;</span>  
